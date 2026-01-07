@@ -1,7 +1,3 @@
-Harika! GitHub projen için kopyalayıp doğrudan kullanabileceğin profesyonel Markdown formatındaki metin aşağıdadır:
-
-Markdown
-
 # 📊 Exploratory Data Analysis (EDA) Project: Sales & Revenue Analysis
 
 This project was developed to analyze a business's sales data to examine revenue trends, category-based performances, and time-series changes. It covers an end-to-end analysis process from data cleaning to interactive visualization.
