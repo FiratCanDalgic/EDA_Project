@@ -1,22 +1,28 @@
+Harika! GitHub projen için kopyalayıp doğrudan kullanabileceğin profesyonel Markdown formatındaki metin aşağıdadır:
+
+Markdown
+
 # 📊 Exploratory Data Analysis (EDA) Project: Sales & Revenue Analysis
 
-Bu proje, bir işletmenin satış verilerini analiz ederek gelir (revenue) trendlerini, kategori bazlı performansları ve zaman serisi değişimlerini incelemek amacıyla geliştirilmiştir. Veri temizleme sürecinden interaktif görselleştirmeye kadar uçtan uca bir analiz sürecini kapsar.
+This project was developed to analyze a business's sales data to examine revenue trends, category-based performances, and time-series changes. It covers an end-to-end analysis process from data cleaning to interactive visualization.
 
-## 🚀 Proje Özeti
-Bu çalışmada, satış verileri üzerinde şu analizler gerçekleştirilmiştir:
-- **Zaman Serisi Analizi:** Günlük ve aylık gelir trendlerinin incelenmesi.
-- **Kategorik Analiz:** Hangi ürün kategorisinin daha fazla gelir getirdiğinin tespiti.
-- **Görselleştirme:** Matplotlib, Seaborn ve Plotly kütüphaneleri kullanılarak statik ve interaktif grafiklerin oluşturulması.
+---
 
-## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
-Proje Python ekosistemi kullanılarak geliştirilmiştir:
-- **Pandas:** Veri manipülasyonu ve analizi.
-- **Matplotlib & Seaborn:** Statik grafikler ve trend analizleri.
-- **Plotly Express:** İnteraktif zaman serisi grafikleri.
-- **Jupyter Notebook:** Adım adım analiz ve raporlama.
+## 🚀 Project Summary
+The following analyses were performed on the sales data in this study:
+- **Time Series Analysis:** Examination of daily and monthly revenue trends.
+- **Categorical Analysis:** Identification of which product categories generate the most revenue.
+- **Visualization:** Creation of static and interactive charts using Matplotlib, Seaborn, and Plotly libraries.
 
-## 📈 Öne Çıkan Görseller
-Proje içerisinde aşağıdaki grafik türleri yer almaktadır:
-- Günlük Toplam Gelir Çizgi Grafiği (Line Plot)
-- Kategorilere Göre Gelir Dağılımı (Bar Plot)
-- Aylık Gelir Değişimleri (Subplots)
+## 🛠️ Technologies and Libraries Used
+The project was developed using the Python ecosystem:
+- **Pandas:** Data manipulation and analysis.
+- **Matplotlib & Seaborn:** Static plots and trend analyses.
+- **Plotly Express:** Interactive time-series charts.
+- **Jupyter Notebook:** Step-by-step analysis and reporting.
+
+## 📈 Featured Visualizations
+The project includes the following types of charts:
+- **Daily Total Revenue:** Line plots for tracking growth over time.
+- **Category Performance:** Bar plots for revenue distribution.
+- **Monthly Trends:** Subplots comparing different time scales.
